@@ -31,7 +31,7 @@ const FirstPage = () => {
       <div className="flex flex-col md:flex-col lg:flex-row lg:space-x-8 space-y-8 lg:space-y-0">
         
         <div className="bg-gray-200 rounded-lg p-4 shadow-lg w-full lg:w-1/3 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
-          <h2 className="text-2xl font-bold">Welcome to E-Cell</h2>
+          <h2 className="text-2xl font-bold">Welcome to E-Cell MNNIT</h2>
           <p className="text-gray-600">Empowering Entrepreneurs<br/>E-Cell MNNIT is a vibrant student-run organization that fosters innovation, entrepreneurship, and startup culture within the MNNIT community.<br/>With a focus on providing guidance and resources, E-Cell MNNIT supports students in turning their business ideas into successful startups.<br/>The goal of E-Cell MNNIT is to create a culture of innovation by empowering the youth with the knowledge and skills necessary for building successful ventures.</p>
         </div>
 
